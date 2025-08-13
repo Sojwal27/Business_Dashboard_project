@@ -23,7 +23,7 @@ During my internship, I worked on a **large-scale data project** with the goal o
 ![Data Cleaning Screenshot](https://github.com/user-attachments/assets/your-image-link)
 
 ### 📌 Business Dashboard UI
-![Dashboard Screenshot](https://github.com/user-attachments/assets/your-image-link)
+![Dashboard Screenshot](https://github.com/Sojwal27/Business_Dashboard_project/blob/main/Screenshot%202025-08-13%20171641.png)
 
 ---
 
