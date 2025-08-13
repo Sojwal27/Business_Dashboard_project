@@ -62,7 +62,7 @@ Business-Dashboard/
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/business-dashboard.git
+   git clone https://github.com/Sojwal27/Business_Dashboard_project.git
    cd business-dashboard
    
 2. **Install dependencies**  
