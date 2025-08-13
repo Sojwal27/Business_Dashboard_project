@@ -45,13 +45,16 @@ During my internship, I worked on a **large-scale data project** with the goal o
 
 ---
 ## 📂 Project Structure
+
+```
 Business-Dashboard/
-│── app.py # Flask backend
-│── requirements.txt # Dependencies
-│── /templates/ # HTML files
-│── /static/ # CSS, JS
-│── /assets/ # Screenshots & images
-│── README.md # Project documentation
+│── app.py              # Flask backend
+│── requirements.txt    # Dependencies
+│── /templates/         # HTML files
+│── /static/            # CSS, JS
+│── /assets/            # Screenshots & images
+│── README.md           # Project documentation
+```
 
 ---
 
